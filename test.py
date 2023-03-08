@@ -1,1 +1,1 @@
-print('My try')
+print('Hello, world!')
